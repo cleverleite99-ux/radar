@@ -1,0 +1,205 @@
+{
+    "url": "https://www.flashscore.mobi/match/Cp7zG6DG/?t=stats",
+    "stats": [
+        {
+            "category": "Expected goals (xG)",
+            "home": "2.29",
+            "away": "1.04"
+        },
+        {
+            "category": "Ball possession",
+            "home": "37%",
+            "away": "63%"
+        },
+        {
+            "category": "Total shots",
+            "home": "20",
+            "away": "16"
+        },
+        {
+            "category": "Shots on target",
+            "home": "10",
+            "away": "6"
+        },
+        {
+            "category": "Big chances",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "category": "Corner kicks",
+            "home": "7",
+            "away": "4"
+        },
+        {
+            "category": "Passes",
+            "home": "78% (239/307)",
+            "away": "92% (492/534)"
+        },
+        {
+            "category": "Yellow cards",
+            "home": "2",
+            "away": "2"
+        },
+        {
+            "category": "Expected goals (xG)",
+            "home": "2.29",
+            "away": "1.04"
+        },
+        {
+            "category": "xG on target (xGOT)",
+            "home": "2.83",
+            "away": "0.89"
+        },
+        {
+            "category": "Total shots",
+            "home": "20",
+            "away": "16"
+        },
+        {
+            "category": "Shots on target",
+            "home": "10",
+            "away": "6"
+        },
+        {
+            "category": "Shots off target",
+            "home": "5",
+            "away": "6"
+        },
+        {
+            "category": "Blocked shots",
+            "home": "5",
+            "away": "4"
+        },
+        {
+            "category": "Shots inside the box",
+            "home": "11",
+            "away": "6"
+        },
+        {
+            "category": "Shots outside the box",
+            "home": "9",
+            "away": "10"
+        },
+        {
+            "category": "Hit the woodwork",
+            "home": "0",
+            "away": "1"
+        },
+        {
+            "category": "Headed goals",
+            "home": "2",
+            "away": "0"
+        },
+        {
+            "category": "Big chances",
+            "home": "3",
+            "away": "3"
+        },
+        {
+            "category": "Corner kicks",
+            "home": "7",
+            "away": "4"
+        },
+        {
+            "category": "Touches in opposition box",
+            "home": "22",
+            "away": "27"
+        },
+        {
+            "category": "Accurate through passes",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "category": "Offsides",
+            "home": "0",
+            "away": "3"
+        },
+        {
+            "category": "Free kicks",
+            "home": "11",
+            "away": "8"
+        },
+        {
+            "category": "Passes",
+            "home": "78% (239/307)",
+            "away": "92% (492/534)"
+        },
+        {
+            "category": "Long passes",
+            "home": "49% (26/53)",
+            "away": "81% (34/42)"
+        },
+        {
+            "category": "Passes in final third",
+            "home": "60% (50/83)",
+            "away": "86% (142/166)"
+        },
+        {
+            "category": "Crosses",
+            "home": "47% (8/17)",
+            "away": "18% (5/28)"
+        },
+        {
+            "category": "Expected assists (xA)",
+            "home": "1.25",
+            "away": "0.98"
+        },
+        {
+            "category": "Throw ins",
+            "home": "12",
+            "away": "20"
+        },
+        {
+            "category": "Fouls",
+            "home": "8",
+            "away": "11"
+        },
+        {
+            "category": "Tackles",
+            "home": "62% (13/21)",
+            "away": "86% (12/14)"
+        },
+        {
+            "category": "Duels won",
+            "home": "52",
+            "away": "39"
+        },
+        {
+            "category": "Clearances",
+            "home": "31",
+            "away": "21"
+        },
+        {
+            "category": "Interceptions",
+            "home": "5",
+            "away": "7"
+        },
+        {
+            "category": "Errors leading to shot",
+            "home": "1",
+            "away": "0"
+        },
+        {
+            "category": "Errors leading to goal",
+            "home": "0",
+            "away": "0"
+        },
+        {
+            "category": "Goalkeeper saves",
+            "home": "5",
+            "away": "6"
+        },
+        {
+            "category": "xGOT faced",
+            "home": "0.89",
+            "away": "2.83"
+        },
+        {
+            "category": "Goals prevented",
+            "home": "-0.11",
+            "away": "-1.17"
+        }
+    ]
+}
